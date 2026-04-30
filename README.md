@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Dallas, Texas, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 6 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `343451` |
 | Location | Dallas |
 | Category | Restaurants |
-| Full dataset size | 41 records |
-| Free sample size | 4 records (9.76%) |
-| Last export | 2026-04-22T11:49:37.811210+00:00 |
+| Full dataset size | 62 records |
+| Free sample size | 6 records (9.68%) |
+| Last export | 2026-04-29T12:50:16.246601+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-dallas-texas-us-sample-343451/releases/download/sample-latest/beamstation_343451_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
